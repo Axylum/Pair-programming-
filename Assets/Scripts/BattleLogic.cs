@@ -8,8 +8,8 @@ public class BattleLogic : MonoBehaviour
     // Characters are first instantiated and added to the following lists. As characters are defeated, they are removed from these lists.
     // Once one of the lists is empty, the other list wins the battle.
     // *NOTE: during set up you may wish to make these lists public so you can check characters are been added and removed throughout the battle. Remember to make private at the end.
-    private List<CharacterStats> activeHeroes = new List<CharacterStats>();
-    private List<CharacterStats> activeMonsters = new List<CharacterStats>();
+    public List<CharacterStats> activeHeroes = new List<CharacterStats>();
+    public List<CharacterStats> activeMonsters = new List<CharacterStats>();
 
     // TODO: Create more prefabs in the Unity editor and add to the following arrays so they can be instantiated into the battle.
     public CharacterStats[] heroLibrary;

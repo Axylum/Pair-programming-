@@ -789,12 +789,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa2bf1e1175c6654b8cb87b0dcda8fd6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  activeHeroes: []
+  activeMonsters: []
   heroLibrary:
   - {fileID: 6139335701006707389, guid: 1e717fd58e87d1444a9bd60a9c74d905, type: 3}
   - {fileID: 4587007153357169972, guid: b3fbf537a4792b64ba2a07f1b1108eae, type: 3}
+  - {fileID: 7437475600586622846, guid: b00cb84387a95b34185fc4b5dfb16336, type: 3}
+  - {fileID: 7587830119053350234, guid: 828a2e0aecee35040b1c65b6c6e4f590, type: 3}
+  - {fileID: 7450536584709673425, guid: cb1e54304b3981c42b02a4c68f183e99, type: 3}
+  - {fileID: 4581274058907005465, guid: f376a26379f907c49b2ec14c199186bf, type: 3}
+  - {fileID: 2476996020312200252, guid: 3631e9ad3bff1114a91dbc33ddc97d74, type: 3}
+  - {fileID: 3155087832486079324, guid: 5223993787f0c4442a38d934b70a0c03, type: 3}
+  - {fileID: 7595230833564498252, guid: e891401981634a940959252f7ae3f4fa, type: 3}
+  - {fileID: 4527864099651504192, guid: fb5e6479d04abbb49a43e08f4ac5efed, type: 3}
+  - {fileID: 1036878595764272480, guid: 818e3cc4e7da2514a817f4bc6b8ee9c0, type: 3}
+  - {fileID: 5375769774669308246, guid: a1150f5f4e9523f43933ff2ac74e0e1f, type: 3}
   monsterLibrary:
   - {fileID: 1728764422300266428, guid: f7499044a0c2ef540b91cad474b85fb2, type: 3}
   - {fileID: 6873659095978031481, guid: f0c3b0c036ca48649a90b18ce5462441, type: 3}
+  - {fileID: 2659379729351108060, guid: a73ad4bb4b72ac44aa423969a5f5bbce, type: 3}
+  - {fileID: 3420205356844623831, guid: d73fd0d853fffac45bfbdaf34cd552b5, type: 3}
+  - {fileID: 7331782408592300015, guid: f319f8d430d5f6246bc5cc30b4c0ff69, type: 3}
+  - {fileID: 8149074146956614164, guid: f9ba6ca130b065448b67ac7f005ce528, type: 3}
+  - {fileID: 6455419992813044751, guid: 1ef920cf6c6f6e1429b0ae9eecf29bb1, type: 3}
+  - {fileID: 3602077749148380263, guid: a7f4142f8c1ce6f4f97bafe834ba7bc7, type: 3}
+  - {fileID: 2281778968595439137, guid: 05e1e99ae3148b8418695494eef2a195, type: 3}
+  - {fileID: 5373093359767294040, guid: 7a4774542209b4a4b87eeeab58d1eba0, type: 3}
+  - {fileID: 5831074420653274794, guid: ce283d396827e1747b200444767ba7d2, type: 3}
+  - {fileID: 3534363282082001009, guid: f5bc373d9ccb8d94696477f760584130, type: 3}
   heroSpawnPoints:
   - {fileID: 1036653964}
   - {fileID: 1406130232}
