@@ -96,6 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -197,6 +198,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -277,6 +279,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -804,6 +807,14 @@ MonoBehaviour:
   - {fileID: 4527864099651504192, guid: fb5e6479d04abbb49a43e08f4ac5efed, type: 3}
   - {fileID: 1036878595764272480, guid: 818e3cc4e7da2514a817f4bc6b8ee9c0, type: 3}
   - {fileID: 5375769774669308246, guid: a1150f5f4e9523f43933ff2ac74e0e1f, type: 3}
+  - {fileID: 6332579097212337459, guid: 3de10fda21496574eb444bfa6d1863f3, type: 3}
+  - {fileID: 7262658294014691966, guid: 3aaa6754f7ed9ba499a4058a8f029408, type: 3}
+  - {fileID: 3092040125829769578, guid: cea173eb59fb77f4db24e825b023b8d7, type: 3}
+  - {fileID: 2172565419794878925, guid: 31e6770739ba4c84495855e2265cf283, type: 3}
+  - {fileID: 239071838710635742, guid: daa8bfc0bd583b24598c18274491ef83, type: 3}
+  - {fileID: 1153068984876281775, guid: a016761bbe84c5f48848d1a5bea5e6a4, type: 3}
+  - {fileID: 5164180733705004716, guid: 986b9bc2ec445b84d997dd2616fffa93, type: 3}
+  - {fileID: 9068164378520970111, guid: ee4ff2d7eabbbfe4896e115c1c3c8c6d, type: 3}
   monsterLibrary:
   - {fileID: 1728764422300266428, guid: f7499044a0c2ef540b91cad474b85fb2, type: 3}
   - {fileID: 6873659095978031481, guid: f0c3b0c036ca48649a90b18ce5462441, type: 3}
@@ -817,6 +828,14 @@ MonoBehaviour:
   - {fileID: 5373093359767294040, guid: 7a4774542209b4a4b87eeeab58d1eba0, type: 3}
   - {fileID: 5831074420653274794, guid: ce283d396827e1747b200444767ba7d2, type: 3}
   - {fileID: 3534363282082001009, guid: f5bc373d9ccb8d94696477f760584130, type: 3}
+  - {fileID: 3088125589442648112, guid: 2bc722d4d31331147b8e41b925b86fa0, type: 3}
+  - {fileID: 2891506492119880985, guid: d68f60f3dcb5e3248b980721dbfbcb9f, type: 3}
+  - {fileID: 2150132749117486534, guid: 6295648ffcfaf764aad0a2eb980c1157, type: 3}
+  - {fileID: 4533835159586204983, guid: fc90cf2513b697d469b0196ab1f61816, type: 3}
+  - {fileID: 485343785601522794, guid: c21ba7166c172f648b901e736ab5ad9a, type: 3}
+  - {fileID: 5839894347385511234, guid: 147a3a77e8b7e89468e8149a8057efe5, type: 3}
+  - {fileID: 4486606343106689365, guid: 0540e6542bcb3554fa022a6e708d291c, type: 3}
+  - {fileID: 7980629529626779844, guid: 36bbcdf2e418cd3498e6ad9c3516c2be, type: 3}
   heroSpawnPoints:
   - {fileID: 1036653964}
   - {fileID: 1406130232}
